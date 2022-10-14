@@ -1,6 +1,4 @@
-## Bene Best
-
-
+The best websites publishing platform
 
 <!--
 
